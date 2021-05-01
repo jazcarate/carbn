@@ -8,6 +8,6 @@ So what if we re-think our current software stack? And have **humans evaluate ot
 
 `carbn` is a Humans-as-a-Service, cutting edge technology that makes your code run in the distributed brains of our _agents_.
 
-Read more about this technology in [my blog :: Florius](https://blog.florius.com.ar/raving/2021/05/01/carbn/)
+Read more about this technology in [my blog](https://blog.florius.com.ar/raving/2021/05/01/carbn/)
 
-Status: https://carbn.statuspage.io/
+[Check status](https://carbn.statuspage.io/)
