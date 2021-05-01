@@ -1,0 +1,9 @@
+---
+permalink: /404.html
+---
+
+<carbn:root xmlns:carbn="https://carbn.florius.com.ar/carbn.xsd">
+    <carbn:result>
+        <carbn:pending />
+    </carbn:result>
+</carbn:root>

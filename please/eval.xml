@@ -1,0 +1,12 @@
+<carbn:root xmlns:carbn="https://carbn.florius.com.ar/carbn.xsd">
+    <carbn:computation>
+        <carbn:async>
+            <carbn:cubyhole>
+                715df71e-aa6a-11eb-bcbc-0242ac130002
+            </carbn:cubyhole>
+        </carbn:async>
+        <carbn:success>
+            true
+        </carbn:success>
+    </carbn:computation>
+</carbn:root>

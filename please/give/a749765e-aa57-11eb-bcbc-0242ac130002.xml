@@ -1,0 +1,9 @@
+<carbn:root xmlns:carbn="https://carbn.florius.com.ar/carbn.xsd">
+    <carbn:result>
+        <carbn:done>
+            <carbn:value>
+                25
+            </carbn:value>
+        </carbn:done>
+    </carbn:result>
+</carbn:root>
